@@ -1,4 +1,4 @@
-# Real Estate Web Application
+## Real Estate Web Application
 
 # Overview
 
@@ -8,32 +8,32 @@ This is a full-stack real estate web application built using React.js (Vite) for
 
 # Buyer:
 
-View available properties.
+- View available properties.
 
-Filter and search properties based on location, price, and other factors.
+- Filter and search properties based on location, price, and other factors.
 
-Contact sellers for inquiries.
+- Contact sellers for inquiries.
 
 # Seller:
 
-List new properties for sale.
+- List new properties for sale.
 
-Manage listed properties (edit, delete, update details).
+- Manage listed properties (edit, delete, update details).
 
-Receive inquiries from buyers.
+- Receive inquiries from buyers.
 
 # Admin:
 
-Manage users (buyers and sellers).
+- Manage users (buyers and sellers).
 
-Approve or reject property listings.
+- Approve or reject property listings.
 
-Monitor platform activity and statistics.
+- Monitor platform activity and statistics.
 
 # Tech Stack
 
-Frontend: React.js (Vite), Tailwind CSS
+- Frontend: React.js (Vite), Tailwind CSS
 
-Backend: Spring Boot (REST APIs)
+- Backend: Spring Boot (REST APIs)
 
-Database: MySQL
+- Database: MySQL
