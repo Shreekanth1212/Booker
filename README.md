@@ -26,13 +26,11 @@ This is a full-stack real estate web application built using React.js (Vite) for
 
 - Manage users (buyers and sellers).
 
-- Approve or reject property listings.
-
 - Monitor platform activity and statistics.
 
 ## Tech Stack
 
-- Frontend: React.js (Vite), Tailwind CSS
+- Frontend: React.js (Vite)
 
 - Backend: Spring Boot (REST APIs)
 
